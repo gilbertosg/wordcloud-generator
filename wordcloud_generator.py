@@ -5,8 +5,9 @@ from os import path
 from PIL import Image
 from wordcloud import WordCloud, STOPWORDS
 
-FILE = 'datasets/daily_self_gil.txt'
-MASK = 'images/masks/g.png'
+# 'datasets/daily_self_gil.txt' 
+FILE = 'datasets/self_appreciation_2023.txt'
+MASK = 'images/masks/alice_mask.png'
 
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
@@ -18,7 +19,10 @@ text = open(path.join(d, FILE)).read()
 image_mask = np.array(Image.open(path.join(d, MASK)))
 
 stopwords = set(STOPWORDS)
-# print(stopwords)
+
+# Customize my Wordcloud
+stopwords.add('smile')
+stopwords.add('legs')
 
 wc = WordCloud(background_color="white", max_words=2000, mask=image_mask,
                stopwords=stopwords, contour_width=3, contour_color='steelblue')

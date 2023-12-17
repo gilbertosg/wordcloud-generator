@@ -7,7 +7,7 @@ from wordcloud import WordCloud, STOPWORDS
 
 # 'datasets/daily_self_gil.txt' 
 FILE = 'datasets/self_appreciation_2023.txt'
-MASK = 'images/masks/cloud2.png'
+MASK = 'images/masks/cloud.png'
 
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
@@ -24,14 +24,14 @@ stopwords = set(STOPWORDS)
 stopwords.add('smile')
 stopwords.add('legs')
 
-wc = WordCloud(background_color="white", max_words=2000, mask=image_mask,
+wc = WordCloud(background_color="white", max_words=5000, mask=image_mask,
                stopwords=stopwords, contour_width=3, contour_color='steelblue')
 
 # generate word cloud
 wc.generate(text)
 
 # store to file
-wc.to_file(path.join(d, "images/gil.png"))
+wc.to_file(path.join(d, "images/gil_self.png"))
 
 # show
 plt.imshow(wc, interpolation='bilinear')

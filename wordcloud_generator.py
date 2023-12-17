@@ -7,7 +7,7 @@ from wordcloud import WordCloud, STOPWORDS
 
 # 'datasets/daily_self_gil.txt' 
 FILE = 'datasets/self_appreciation_2023.txt'
-MASK = 'images/masks/alice_mask.png'
+MASK = 'images/masks/cloud2.png'
 
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()

@@ -24,11 +24,12 @@ stopwords = set(STOPWORDS)
 stopwords.add('smile')
 stopwords.add('legs')
 
-wc = WordCloud(background_color="white", max_words=5000, mask=image_mask,
-               stopwords=stopwords, contour_width=3, contour_color='steelblue')
+wc = WordCloud(background_color="white", max_words=6000, mask=image_mask,
+               stopwords=stopwords, contour_width=3, contour_color='steelblue',
+               collocations=False, max_font_size=100)
 
 # generate word cloud
-wc.generate(text)
+text_generated = wc.generate(text)
 
 # store to file
 wc.to_file(path.join(d, "images/gil_self.png"))

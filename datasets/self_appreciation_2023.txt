@@ -1,351 +1,300 @@
-﻿My smile,Loving,Kind,Joyful,Generous,Great Host,Relator,Individualism,Dancer,Supportive
-Loving,Relator,Individualism,Intelligent,Caring,Generous,Kind,Honest,Energetic,Supportive
-Loving,My smile,Kind,High Performer,Joyful,Intelligent,Supportive,Patient,Relaxed,Energetic
-My smile,Chilling,Curious,Kind,Honest,Supportive,Patient,Individualism,Resilient,Reflexive
-My smile,Stamina,High Performer,Intelligent,Joyful,Supportive,Disciplined,Motivated,Resilient,Learner
-My smile,Kind,Patient,Joyful,High Performer,Healthy,Focused,Individualism,Strong,Learner
-My smile,Stamina,Analytical,Organized,High Performer,Healthy,Focused,Motivated,Learner,Energetic
-My smile,Kind,Caring,Compassion,Joyful,Healthy,Relaxed,High Performer,Focused,Energetic
-Kind,Caring,Loving,Organized,Listener,Resilient,Honest,Focused,Individualism,Compassion
-Loving,Caring,Patient,Listener,Joyful,Disciplined,High Performer,Honest,Individualism,Energetic
-Joyful,High Performer,Disciplined,Organized,Executioner,Stamina,Strength,Motivated,Individualism,Energetic
-Joyful,Caring,Loving,My smile,Relator,Individualism,Focused,High Performer,Energetic,Disciplined
-My smile,Relator,High Performer,Disciplined,Generous,Listener,Energetic,Relator,Curious,Intelligent
-Generous,Relator,Individualism,Caring,Loving,Supportive,Energetic,Focused,Intelligent,High Performer
-Caring,Loving,Joyful,Patient,Supportive,Listener,Carismathic,High Performer,Honest,Reflexive
-Loving,Caring,Joyful,Patient,Resilient,Supportive,Generous,Energetic,High Performer,Disciplined
-Loving,Caring,Patient,Resilient,Supportive,Not prideful,Focused,Curious,High Performer,Intelligent
-Learner,Relator,Curious,Individualism,Supportive,Caring,Focused,Joyful,My smile,Hard worker
-Learner,Relator,Curious,Individualism,Supportive,Caring,Focused,Joyful,My smile,Hard worker
-Learner,Relator,Curious,Individualism,Supportive,Caring,Focused,Joyful,My smile,Hard worker
-Caring,Loving,Relator,Supportive,Individualism,Reflexive,Honest,My smile,Carismathic,Intelligent
-Caring,Loving,Curious,Relator,Individualism,Listener,Intelligent,Supportive,Honest,Energetic
-,,,,,,,,,
-Supportive,Caring,Loving,Stamina,Intelligent,High Performer,Disciplined,Focused,Healthy,Strength
-Caring,Resilient,High Performer,Stamina,Focused,Healthy,Disciplined,Strength,My smile,Joyful
-Caring,Loving,Patient,Resilient,Reflexive,Self-critical ,My smile,Strength,EQ,Focused
-Loving,Patient,Self-critical,Joyful,High Performer,Focused,Analytical,Learner,Curious,Relator
-Loving,Caring,Supportive,Joyful,High Perfomer,Healthy,Focused,Learner,Curious,Intelligent
-Loving,Caring,Supportive,Joyful,Determined,High Performer,Focused,Intelligent,Healthy,Stamina
-Loving,Caring,Supportive,Joyful,Determined,Relator,High Performer,Intelligent,Stamina,Strength
-Loving,Caring,Relator,Individualism,Intelligent,Focused,Supportive,Patient,Humble,Reflexive
-Loving,Caring,Relator,Individualism,Analytical,Focused,Patient,Supportive,Stamina,Strength
-Loving,Caring,Supportive,Listener,Intelligent,Relator,Patient,Strenth,Stamina,My smile
-Loving,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My smile
-Loving,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My smile
-Loving,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My smile
-Loving,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My smile
-Loving,Caring,Relator,Patient,Supportive,Listener,Humble,Relaxed,Individualism,My smile
-Loving,My smile,High Performer,Analytical,Supportive,Patient,Resilient,Individualism,Focused,Healthy
-Loving,My smile,High Performer,Analytical,Supportive,Patient,Resilient,Individualism,Focused,Healthy
-Loving,My smile,High Performer,Analytical,Supportive,Patient,Resilient,Individualism,Focused,Healthy
-Loving,My smile,Stamina,Discipline,High Performer,Healthy,Relator,Individualism,Focused,Analytical
-Loving,My smile,Stamina,Discipline,High Performer,Healthy,Relator,Individualism,Focused,Analytical
-Loving,My smile,Stamina,Discipline,High Performer,Healthy,Relator,Individualism,Focused,Analytical
-My smile,Strength,Stamina,Discipline,High Performer,Healthy,Relator,Individualism,Focused,Analytical
-My smile,Strength,Stamina,Discipline,High Performer,Healthy,Analytical,Focused,Joyful,Active
-My smile,Strength,High Performer,Healthy,Stamina,Relator,Focused,Loving,Caring,Intelligent
-My smile,Strength,High Performer,Healthy,Stamina,Relator,Focused,Loving,Caring,Intelligent
-My smile,Joyful,High Performer,Healthy,Stamina,Relator,Focused,Loving,Caring,Individualism
-My smile,Joyful,High Performer,Stamina,Relator,Discipline,Loving,Caring,Individualism,Charismatic
-My smile,Joyful,Strength,High Performer,Stamina,Relator,Loving,Caring,Individualism,Charismatic
-My smile,Joyful,Strength,High Performer,Stamina,Discipline,Loving,Caring,Individualism,Charismatic
-My smile,Joyful,High Performer,Stamina,Loving,Caring,Charismatic,Focused,Analytical,Constant
-My smile,Patient,High Performer,Discipline,Stamina,Focused,Analytical,Individualism,Curious,Learner
-My smile,High Performer,Discipline,Focused,Healthy,Caring,Patient,Resilient,Curious,Learner
-My smile,High Performer,Focused,Analytical,Learner,Patient,Individualism,Relator,Charismathic,Stamina
-Joyful,High Performer,Relator,Analytical,Focused,Learner,Patient,Caring,Loving,Stamina
-Relator ,Joyful,Good friend,Good Host,Listener,Individualism,Analytical,Loving,Caring,Charismatic
-Strength,Stamina,Joyful,Relaxed,Happy,High Performer,Focused,Healthy,Caring,Loving
-My smile,Optimism,Discipline,Focused,High Performer,Happy,Healthy,Caring,Loving,Individualism
-My smile,Optimism,Positivity,Joyful,High Performer,Focused,Healthy,Happy,Patient,Loving
-My smile,Stamina,High Performer,Focused,Analytical,Happy,Healthy,Caring,Loving,Listener
-My smile,Listener,Resilient,Humble,High Performer,Focused,Analytical,Discimplined,Caring,Individualism
-My smile,Listener,Resilient,Loving,Caring ,Supportive,Focused,High Performer,Healthy,Optimism
-My smile,Listener,Resilient,Loving,Caring ,Supportive,Focused,High Performer,Healthy,Optimism
-Stamina,Strength,My smile,My legs,My resistance,High Performer,Loving,Caring ,Supportive,Focused
-Stamina,Strength,My smile,My legs,Listener,Supportive,Loving,Caring,Focused,High Performer
-My smile,My legs,Stamina,High Performer,Analytical,Loving ,Caring,Supportive,Listener,Curious
-Focused,Analytical,Determined,Organized,Structured,Generous,Caring,Loving ,High Performer,Healthy
-Focused,Analytical,High Performer,Organized,Structured,Supportive,Loving,Healthy,Stamina,Strength
-Focused,Analytical,High Performer,Organized,Structured,Supportive,Loving,Healthy,Stamina,Strength
-Focused,Analytical,High Performer,Organized,Structured,Supportive,Loving,Healthy,Stamina,Strength
-High Performer,Disciplined,Focused,Curious,Healthy,Learner,Listener,Caring,Loving,Charming
-High Performer,Focused,Analytical,Curious,Learner,Healthy,Caring,Charming,Individualism,Relator
-High Performer,Focused,Disciplined,Analytical,Learner,Curious,Healthy,Stamina,Strong,Loving
-High Performer,Focused,Disciplined,Analytical,Learner,Curious,Healthy,Stamina,Strong,Loving
-High Performer,Focused,Disciplined,Analytical,Learner,Curious,Healthy,Stamina,Strong,Loving
-Loving,Caring ,Empathetic,Analytical,Learner,Curious,Listener,Charming,Individualism,Charismatic
-High Performer,Caring,Loving,Learner,Curious,Healthy,Disciplined,Individualism,Patient,Resilient
-Perseverant,Strong,Stamina,Runner,My legs,My smile,Empathy,Loving,Caring,Supportive
-Perseverant,Hopeful,Stamina,Runner,My legs,Individualism,Analytical,Focused,Supportive,Caring
-Loving,Caring,Supportive,Runner,My legs,My smile,Focused,High Performer,Empathy,Individualism
-Loving,Caring,Supportive,Runner,Healthy,High Performer,Focused,Savage,Charming,My smile
-Loving,Caring,Supportive,Resilient,Strong,Healthy,High Performer,Focused,Savage,Individualism
-Loving,Caring,Supportive,Resilient,Strong,Healthy,High Performer,Focused,Savage,Individualism
-My legs,Stamina,Strong,Healthy,High Performer,Focused,Individualism,Savage,Caring,My smile
-My legs,My body,My smile,Strong,Stamina,Healthy,Supportive,Caring,Loving,Relaxed
-My legs,My body,My smile,Strong,High Performer,Healthy,Supportive,Loving,Focused,Analytical
-My smile,High Performer,Analytical,Focused,Healthy,Strong,Stamina,Loving,Caring,Joyful
-My smile,High Performer,Analytical,Focused,Healthy,Strong,Stamina,Loving,Caring,Joyful
-My smile,High Performer,Focused,Healthy,Savage,Stamina,Strong,Loving,Caring,Joyful
-My smile,High Performer,Focused,Healthy,Savage,Stamina,Strong,Loving,Caring,Joyful
-My smile,High Performer,Focused,Healthy,Savage,Stamina,Strong,Loving,Caring,Joyful
-My legs,My stamina,High Performer,Healthy,Analytical,Individualism,Caring,Supportive,Joyful,Optimistic
-My legs,My stamina,My smile,Healthy,High Performer,Individualism,Caring,Supportive,Joyful,Positive
-My legs,My stamina,My smile,High Performer,Healthy,Focused,Savage,Caring ,Loving,Supportive
-Resilient,Analytical,My smile,High Performer,Focused,Caring,Loving,Joyful,Supportive,Individualism
-My legs,My stamina,My smile,High Performer,Focused,Healthy,Savage,Caring ,Supportive,Individualism
-My legs,My stamina,My smile,High Performer,Focused,Healthy,Savage,Caring ,Supportive,Individualism
-My legs,My stamina,My smile,High Performer,Focused,Healthy,Savage,Caring ,Supportive,Individualism
-Healthy,Strong,My smile,My heart and goodness,Caring,Loving,Analytical,Intelligent,High Performer,Joyful
-Healthy,Passionate,My smile,Supportive,Caring,Loving,Charming,Helpful,High Performer,Joyful
-Healthy,Focused,High Performer,Caring,Loving,Analytical,Individualism,Savage,Joyful,Intelligent
-Strong,Focused,Analytical,Relator,Individualism,Hard Worker,Caring,Loving,Joyful,Strong
-Strong,My smile,Intelligent,Relator,Individualism,Analytical,Caring,Loving,Helpful,Joyful
-Healthy,Strong,Intelligent,Analytical,Determinant,Individualism,Caring,High Performer,Savage,Caring
-High Performer,Disciplined,Intelligent,Focused,Healthy,Strong,Stamina,My legs,My smile,Joyful
-Healthy,High Performer,Disciplined,Focused,Savage,Caring,Supportive,Resilient,Patient,Loving
-High Performer,Focused,Relator,Analytical,Caring,Loving,Supportive,Resilient,Brave,Healthy
-High Performer,Healthy,Focused,Savage,Caring,Loving,Relator,Individualism,Analytical,Brave
-High Performer,Healthy,Focused,Savage,Caring,Loving,Relator,Individualism,Analytical,Brave
-High Performer,Healthy,Focused,Savage,Caring,Loving,Relator,Individualism,Analytical,Brave
-High Performer,Healthy,Focused,Savage,Loving ,Caring,Relator,Individualism,Supportive,Brave
-High Performer,Healthy,Focused,Savage,Loving ,Caring,Relator,Individualism,Supportive,Brave
-High Performer,Healthy,Focused,Savage,Disciplined,Strong,Loving,Caring,Analytical,Relator
-High Performer,Disciplined,Focused,Savage,Strong,My smile,Loving,Supportive,Relator,Individualism
-High Performer,Disciplined,Focused,Strong,Stamina,Loving,Caring,Supportive,Relator,My smile
-High Performer,Disciplined,Focused,Strong,Stamina,Loving,Caring,Supportive,Relator,My smile
-High Performer,Healthy,Focused,Savage,Strength,Stamina,Caring,Supportive,Relator,My smile
-High Performer,Healthy,Focused,Savage,Strength,Stamina,Caring,Supportive,Relator,My smile
-High Performer,Healthy,Focused,Savage,Strength,Stamina,Caring,Supportive,Relator,My smile
-High Performer,Healthy,Focused,Savage,Disciplined,Stamina,Caring,Supportive,Analytical,My legs
-High Performer,Disciplined,Focused,Savage,Healthy,Stamina,Strength,Loving,Supportive,My legs
-High Performer,Disciplined,Focused,Healthy,Savage,Stamina,My legs,My smile,Analytical,Strength
-High Performer,Analytical,Relator,Individualism,Stamina,Loving,Supportive,Stamina,My smile,My personality
-High Performer,Healthy,Focused,Savage,Tactical,Loving,Supportive,Caring,Analytical,My legs
-High Performer,Focused,Healthy,Savage,Intelligent,My smile,My legs,My face,Loving,Supportive
-High Performer,Focused,Healthy,Savage,Intelligent,My smile,My legs,My face,Loving,Supportive
-High Performer,Focused,Healthy,Savage,Intelligent,My smile,My legs,My face,Loving,Supportive
-High Performer,Focused,Healthy,Savage,Intelligent,My smile,My legs,My face,Loving,Supportive
-High Performer,Focused,Healthy,Savage,My smile,Loving,Caring,My legs,Intelligent,Charismatic
-High Performer,Focused,Healthy,Savage,My smile,Loving,Caring,My legs,Intelligent,Charismatic
-High Performer,Focused,Healthy,Savage,My smile,Loving,Caring,My legs,Intelligent,Charismatic
-High Performer,Focused,Healthy,Savage,My smile,Loving,Caring,My legs,Intelligent,Charismatic
-High Performer,Focused,Healthy,Savage,My smile,Loving,Caring,My legs,Intelligent,Charismatic
-High Performer,Focused,Healthy,Chilling,My smile,My body,My legs,Loving,Caring,Supportive
-High Performer,Focused,Healthy,Chillig,My smile,Caring,Patient,Smart,Supportive,My legs
-High Performer,Focused,Healthy,Chilling,My smile,Caring,Patient,Smart,Supportive,My legs
-High Performer,Focused,Healthy,Chilling,My smile,Caring,Patient,Smart,Supportive,My legs
-High Performer,Focused,Healthy,Chilling,My smile,Caring,Patient,Smart,Supportive,My legs
-High Performer,Focused,Healthy,Savage,My smile,Caring,Patient,Smart,Supportive,My legs
-High Performer,Focused,Healthy,Savage,My smile,Caring,Patient,Resilient,Supportive,My legs
-High Performer,Focused,Healthy,Savage,My smile,Caring,Patient,Resilient,Supportive,My legs
-High Performer,Focused,Healthy,Savage,My smile,Caring,Patient,Resilient,Supportive,My legs
-High Performer,Focused,Healthy,Savage,My smile,Caring,Patient,Resilient,Supportive,My legs
-High Performer,Focused,Analytical,My legs,My body,My smile,My personality,Supportive,Intelligent,Loving
-High Performer,Focused,Healthy,Chilling ,My smile,Caring,Patient,Supportive,Resilient,My legs
-High Performer,Focused,Healthy,Savage,Loving,Supportive,Caring,Intelligent,Stamina,My legs
-High Performer,Focused,Healthy,Savage,Loving,Supportive,Caring,Intelligent,Stamina,My legs
-High Performer,Focused,Analytical,Loving ,Supportive,Caring,My body,My legs,Charismatic,Chilling
-High Performer,Focused,Healthy,Analytical,Relator,Loving,Supportive,Patient,Intelligent,My legs
-High Performer,Focused,Healthy,Analytical,Relator,Loving,Supportive,Patient,Intelligent,My legs
-High Performer,Focused,Relator,Friend,Analytical,Loving,Supportive,Charismathic,Intelligent,My smile
-High Performer,Focused,Relator,Friend,Analytical,Loving,Supportive,Charismathic,Intelligent,My smile
-High Performer,Focused,Relator,Analytical,Charismatic,Loving,Supportive,My legs,My smile,Caring
-High Performer,Focused,Relator,Analytical,Charismatic,Loving,Supportive,My legs,My smile,Caring
-High Performer,Focused,Relator,Analytical,Loving,Supportive,My legs,My smile,Caring,Individualism
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-High Performer,Focused,Relator,Individualism,Healthy,My smile,Caring,Loving,Intelligent,Analytical
-High Performer,Focused,Relator,Individualism,Healthy,My smile,Caring,Loving,Intelligent,Analytical
-High Performer,Focused,Relator,Individualism,Healthy,My smile,Caring,Loving,Intelligent,Analytical
-High Performer,Focused,Relator,Individualism,Healthy,My smile,Caring,Loving,Intelligent,Analytical
-High Performer,Focused,Relator,Individualism,Healthy,My smile,Caring,Loving,Intelligent,Analytical
-High Performer,Focused,Relator,Individualism,Healthy,My smile,Caring,Loving,Intelligent,Analytical
-High Performer,Focused,Relator,Individualism,Healthy,My smile,Caring,Loving,Intelligent,Analytical
-High Performer,Focused,Analytical,My smile,Intelligent,Loving,Caring,My legs,Healthy,Individualism
-High Performer,Focused,Analytical,My smile,Intelligent,Loving,Caring,My legs,Healthy,Individualism
-High Performer,Focused,Analytical,My smile,Intelligent,Loving,Caring,My legs,Healthy,Individualism
-High Performer,Focused,Analytical,My smile,Intelligent,Loving,Caring,My legs,Healthy,Individualism
-High Performer,Focused,Analytical,My smile,Intelligent,Loving,Caring,My legs,Healthy,Individualism
-High Performer,Focused,Analytical,My smile,Intelligent,Loving,Caring,My legs,Healthy,Individualism
-High Performer,Healthy,Relator,Resilient,Loving,Sympathetic,My personality,Gentleman,Intelligent,My smile
-High Perfomer,My legs,Healthy,My smile,Caring,Loving,Helpful,Honest,Patient,Individualism
-High Performer,Analytical,Focused,Relator,Caring,Loving,My legs,Patient,Intelligent,Individualism
+﻿My_Smile,Happy,Kind,Joyful,Generous,Great Host,Relator,Individualization,Dancer,Supportive
+Happy,Relator,Individualization,Intelligent,Caring,Generous,Kind,Honest,Energetic,Supportive
+Happy,My_Smile,Kind,High_Performer,Joyful,Intelligent,Supportive,Patient,Relaxed,Energetic
+My_Smile,Chilling,Curious,Kind,Honest,Supportive,Patient,Individualization,Resilient,Reflexive
+My_Smile,Stamina,High_Performer,Intelligent,Joyful,Supportive,Disciplined,Motivated,Resilient,Learner
+My_Smile,Kind,Patient,Joyful,High_Performer,Healthy,Focused,Individualization,Strong,Learner
+My_Smile,Stamina,Analytical,Organized,High_Performer,Healthy,Focused,Motivated,Learner,Energetic
+My_Smile,Kind,Caring,Compassion,Joyful,Healthy,Relaxed,High_Performer,Focused,Energetic
+Kind,Caring,Happy,Organized,Listener,Resilient,Honest,Focused,Individualization,Compassion
+Happy,Caring,Patient,Listener,Joyful,Disciplined,High_Performer,Honest,Individualization,Energetic
+Joyful,High_Performer,Disciplined,Organized,Executioner,Stamina,Strength,Motivated,Individualization,Energetic
+Joyful,Caring,Happy,My_Smile,Relator,Individualization,Focused,High_Performer,Energetic,Disciplined
+My_Smile,Relator,High_Performer,Disciplined,Generous,Listener,Energetic,Relator,Curious,Intelligent
+Generous,Relator,Individualization,Caring,Happy,Supportive,Energetic,Focused,Intelligent,High_Performer
+Caring,Happy,Joyful,Patient,Supportive,Listener,Carismathic,High_Performer,Honest,Reflexive
+Happy,Caring,Joyful,Patient,Resilient,Supportive,Generous,Energetic,High_Performer,Disciplined
+Happy,Caring,Patient,Resilient,Supportive,Not prideful,Focused,Curious,High_Performer,Intelligent
+Learner,Relator,Curious,Individualization,Supportive,Caring,Focused,Joyful,My_Smile,Hard worker
+Learner,Relator,Curious,Individualization,Supportive,Caring,Focused,Joyful,My_Smile,Hard worker
+Learner,Relator,Curious,Individualization,Supportive,Caring,Focused,Joyful,My_Smile,Hard worker
+Caring,Happy,Relator,Supportive,Individualization,Reflexive,Honest,My_Smile,Carismathic,Intelligent
+Caring,Happy,Curious,Relator,Individualization,Listener,Intelligent,Supportive,Honest,Energetic
+Supportive,Caring,Happy,Stamina,Intelligent,High_Performer,Disciplined,Focused,Healthy,Strength
+Caring,Resilient,High_Performer,Stamina,Focused,Healthy,Disciplined,Strength,My_Smile,Joyful
+Caring,Happy,Patient,Resilient,Reflexive,Self-critical ,My_Smile,Strength,EQ,Focused
+Joyful,Patient,Self-critical,Joyful,High_Performer,Focused,Analytical,Learner,Curious,Relator
+Happy,Caring,Supportive,Joyful,High Perfomer,Healthy,Focused,Learner,Curious,Intelligent
+Happyg,Caring,Supportive,Joyful,Determined,High_Performer,Focused,Intelligent,Healthy,Stamina
+Happy,Caring,Supportive,Joyful,Determined,Relator,High_Performer,Intelligent,Stamina,Strength
+Happy,Caring,Relator,Individualization,Intelligent,Focused,Supportive,Patient,Humble,Reflexive
+Happy,Caring,Relator,Individualization,Analytical,Focused,Patient,Supportive,Stamina,Strength
+Happy,Caring,Supportive,Listener,Intelligent,Relator,Patient,Strenth,Stamina,My_Smile
+Happy,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My_Smile
+Happyg,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My_Smile
+Happy,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My_Smile
+Happy,Caring,Supportive,Listener,Patient,Intelligent,Focused,Humble,Relator,My_Smile
+Happy,Caring,Relator,Patient,Supportive,Listener,Humble,Relaxed,Charismatic,My_Smile
+Happy,My_Smile,High_Performer,Analytical,Supportive,Patient,Resilient,Charismatic,Focused,Healthy
+Happy,My_Smile,High_Performer,Analytical,Supportive,Patient,Resilient,Charismatic,Focused,Healthy
+Happy,My_Smile,High_Performer,Analytical,Supportive,Patient,Resilient,Charismatic,Focused,Healthy
+Happy,My_Smile,Stamina,Discipline,High_Performer,Healthy,Relator,Charismatic,Focused,Analytical
+Happy,My_Smile,Stamina,Discipline,High_Performer,Healthy,Relator,Charismatic,Focused,Analytical
+Happy,My_Smile,Stamina,Discipline,High_Performer,Healthy,Relator,Charismatic,Focused,Analytical
+My_Smile,Strength,Stamina,Discipline,High_Performer,Healthy,Relator,Charismatic,Focused,Analytical
+My_Smile,Strength,Stamina,Discipline,High_Performer,Healthy,Analytical,Focused,Joyful,Active
+My_Smile,Strength,High_Performer,Healthy,Stamina,Relator,Focused,Happy,Caring,Intelligent
+My_Smile,Strength,High_Performer,Healthy,Stamina,Relator,Focused,Happy,Caring,Intelligent
+My_Smile,Joyful,High_Performer,Healthy,Stamina,Relator,Focused,Loving,Caring,Charismatic
+My_Smile,Joyful,High_Performer,Stamina,Relator,Discipline,Loving,Caring,Charismatic,Charismatic
+My_Smile,Joyful,Strength,High_Performer,Stamina,Relator,Loving,Caring,Charismatic,Charismatic
+My_Smile,Joyful,Strength,High_Performer,Stamina,Discipline,Loving,Caring,ICharismatic,Charismatic
+My_Smile,Joyful,High_Performer,Stamina,Loving,Caring,Charismatic,Focused,Analytical,Constant
+My_Smile,Patient,High_Performer,Discipline,Stamina,Focused,Analytical,Charismatic,Curious,Learner
+My_Smile,High_Performer,Discipline,Focused,Healthy,Caring,Patient,Resilient,Curious,Learner
+My_Smile,High_Performer,Focused,Analytical,Learner,Patient,Charismatic,Relator,Charismathic,Stamina
+Joyful,High_Performer,Relator,Analytical,Focused,Learner,Patient,Caring,Loving,Stamina
+Relator ,Joyful,Good friend,Good Host,Listener,Charismatic,Analytical,Loving,Caring,Charismatic
+Strength,Stamina,Joyful,Relaxed,Happy,High_Performer,Focused,Healthy,Caring,Loving
+My_Smile,Optimism,Discipline,Focused,High_Performer,Happy,Healthy,Caring,Loving,Charismatic
+My_Smile,Optimism,Positivity,Joyful,High_Performer,Focused,Healthy,Happy,Patient,Loving
+My_Smile,Stamina,High_Performer,Focused,Analytical,Happy,Healthy,Caring,Loving,Listener
+My_Smile,Listener,Resilient,Humble,High_Performer,Focused,Analytical,Discimplined,Caring,Charismatic
+My_Smile,Listener,Resilient,Loving,Caring,Supportive,Focused,High_Performer,Healthy,Optimism
+My_Smile,Listener,Resilient,Loving,Caring,Supportive,Focused,High_Performer,Healthy,Optimism
+Stamina,Strength,My_Smile,My_Legs,My resistance,High_Performer,Loving,Caring ,Supportive,Focused
+Stamina,Strength,My_Smile,My_Legs,Listener,Supportive,Loving,Caring,Focused,High_Performer
+My_Smile,My_Legs,Stamina,High_Performer,Analytical,Happy,Caring,Supportive,Listener,Curious
+Focused,Analytical,Determined,Organized,Structured,Generous,Caring,Happy,High_Performer,Healthy
+Focused,Analytical,High_Performer,Organized,Structured,Supportive,Happy,Healthy,Stamina,Strength
+Focused,Analytical,High_Performer,Organized,Structured,Supportive,Happy,Healthy,Stamina,Strength
+Focused,Analytical,High_Performer,Organized,Structured,Supportive,Happy,Healthy,Stamina,Strength
+High_Performer,Disciplined,Focused,Curious,Healthy,Learner,Listener,Caring,Loving,Charming
+High_Performer,Focused,Analytical,Curious,Learner,Healthy,Caring,Charming,Individualization,Relator
+High_Performer,Focused,Disciplined,Analytical,Learner,Curious,Healthy,Stamina,Strong,Happy
+High_Performer,Focused,Disciplined,Analytical,Learner,Curious,Healthy,Stamina,Strong,Happy
+High_Performer,Focused,Disciplined,Analytical,Learner,Curious,Healthy,Stamina,Strong,Happy
+Loving,Caring ,Empathetic,Analytical,Learner,Curious,Listener,Charming,Individualization,Charismatic
+High_Performer,Caring,Loving,Learner,Curious,Healthy,Disciplined,Individualization,Patient,Resilient
+Perseverant,Strong,Stamina,Runner,My_Legs,My_Smile,Empathy,Happy,Caring,Supportive
+Perseverant,Hopeful,Stamina,Runner,My_Legs,Individualization,Analytical,Focused,Supportive,Caring
+Loving,Caring,Supportive,Runner,My_Legs,My_Smile,Focused,High_Performer,Empathy,Individualization
+Loving,Caring,Supportive,Runner,Healthy,High_Performer,Focused,Savage,Charming,My_Smile
+Loving,Caring,Supportive,Resilient,Strong,Healthy,High_Performer,Focused,Savage,Individualization
+Loving,Caring,Supportive,Resilient,Strong,Healthy,High_Performer,Focused,Savage,Individualization
+My_Legs,Stamina,Strong,Healthy,High_Performer,Focused,Individualization,Savage,Caring,My_Smile
+My_Legs,My body,My_Smile,Strong,Stamina,Healthy,Supportive,Caring,Happy,Relaxed
+My_Legs,My body,My_Smile,Strong,High_Performer,Healthy,Supportive,Happy,Focused,Analytical
+My_Smile,High_Performer,Analytical,Focused,Healthy,Strong,Stamina,Happy,Caring,Joyful
+My_Smile,High_Performer,Analytical,Focused,Healthy,Strong,Stamina,Happy,Caring,Joyful
+My_Smile,High_Performer,Focused,Healthy,Savage,Stamina,Strong,Happy,Caring,Joyful
+My_Smile,High_Performer,Focused,Healthy,Savage,Stamina,Strong,Happy,Caring,Joyful
+My_Smile,High_Performer,Focused,Healthy,Savage,Stamina,Strong,Happy,Caring,Joyful
+My_Legs,My stamina,High_Performer,Healthy,Analytical,Individualization,Caring,Supportive,Joyful,Optimistic
+My_Legs,My stamina,My_Smile,Healthy,High_Performer,Individualization,Caring,Supportive,Joyful,Positive
+My_Legs,My stamina,My_Smile,High_Performer,Healthy,Focused,Savage,Caring,Loving,Supportive
+Resilient,Analytical,My_Smile,High_Performer,Focused,Caring,Loving,Joyful,Supportive,Individualization
+My_Legs,My stamina,My_Smile,High_Performer,Focused,Healthy,Savage,Caring,Supportive,Individualization
+My_Legs,My stamina,My_Smile,High_Performer,Focused,Healthy,Savage,Caring,Supportive,Individualization
+My_Legs,My stamina,My_Smile,High_Performer,Focused,Healthy,Savage,Caring,Supportive,Individualization
+Healthy,Strong,My_Smile,My heart and goodness,Caring,Loving,Analytical,Intelligent,High_Performer,Joyful
+Healthy,Passionate,My_Smile,Supportive,Caring,Loving,Charming,Helpful,High_Performer,Joyful
+Healthy,Focused,High_Performer,Caring,Loving,Analytical,Individualization,Savage,Joyful,Intelligent
+Strong,Focused,Analytical,Relator,Individualization,Hard Worker,Caring,Loving,Joyful,Strong
+Strong,My_Smile,Intelligent,Relator,Individualization,Analytical,Caring,Loving,Helpful,Joyful
+Healthy,Strong,Intelligent,Analytical,Determinant,Individualization,Caring,High_Performer,Savage,Caring
+High_Performer,Disciplined,Intelligent,Focused,Healthy,Strong,Stamina,My_Legs,My_Smile,Joyful
+Healthy,High_Performer,Disciplined,Focused,Savage,Caring,Supportive,Resilient,Patient,Loving
+High_Performer,Focused,Relator,Analytical,Caring,Happy,Supportive,Resilient,Brave,Healthy
+High_Performer,Healthy,Focused,Savage,Caring,Happy,Relator,Individualization,Analytical,Brave
+High_Performer,Healthy,Focused,Savage,Caring,Happy,Relator,Individualization,Analytical,Brave
+High_Performer,Healthy,Focused,Savage,Caring,Happy,Relator,Individualization,Analytical,Brave
+High_Performer,Healthy,Focused,Savage,Happy,Caring,Relator,Individualization,Supportive,Brave
+High_Performer,Healthy,Focused,Savage,Happy,Caring,Relator,Individualization,Supportive,Brave
+High_Performer,Healthy,Focused,Savage,Disciplined,Strong,Happy,Caring,Analytical,Relator
+High_Performer,Disciplined,Focused,Savage,Strong,My_Smile,Happy,Supportive,Relator,Individualization
+High_Performer,Disciplined,Focused,Strong,Stamina,Happy,Caring,Supportive,Relator,My_Smile
+High_Performer,Disciplined,Focused,Strong,Stamina,Happy,Caring,Supportive,Relator,My_Smile
+High_Performer,Healthy,Focused,Savage,Strength,Stamina,Caring,Supportive,Relator,My_Smile
+High_Performer,Healthy,Focused,Savage,Strength,Stamina,Caring,Supportive,Relator,My_Smile
+High_Performer,Healthy,Focused,Savage,Strength,Stamina,Caring,Supportive,Relator,My_Smile
+High_Performer,Healthy,Focused,Savage,Disciplined,Stamina,Caring,Supportive,Analytical,My_Legs
+High_Performer,Disciplined,Focused,Savage,Healthy,Stamina,Strength,Loving,Supportive,My_Legs
+High_Performer,Disciplined,Focused,Healthy,Savage,Stamina,My_Legs,My_Smile,Analytical,Strength
+High_Performer,Analytical,Relator,Individualization,Stamina,Loving,Supportive,Stamina,My_Smile,My personality
+High_Performer,Healthy,Focused,Savage,Tactical,Loving,Supportive,Caring,Analytical,My_Legs
+High_Performer,Focused,Healthy,Savage,Intelligent,My_Smile,My_Legs,My face,Loving,Supportive
+High_Performer,Focused,Healthy,Savage,Intelligent,My_Smile,My_Legs,My face,Loving,Supportive
+High_Performer,Focused,Healthy,Savage,Intelligent,My_Smile,My_Legs,My face,Loving,Supportive
+High_Performer,Focused,Healthy,Savage,Intelligent,My_Smile,My_Legs,My face,Loving,Supportive
+High_Performer,Focused,Healthy,Savage,My_Smile,Loving,Caring,My_Legs,Intelligent,Charismatic
+High_Performer,Focused,Healthy,Savage,My_Smile,Loving,Caring,My_Legs,Intelligent,Charismatic
+High_Performer,Focused,Healthy,Savage,My_Smile,Loving,Caring,My_Legs,Intelligent,Charismatic
+High_Performer,Focused,Healthy,Savage,My_Smile,Loving,Caring,My_Legs,Intelligent,Charismatic
+High_Performer,Focused,Healthy,Savage,My_Smile,Loving,Caring,My_Legs,Intelligent,Charismatic
+High_Performer,Focused,Healthy,Chilling,My_Smile,My body,My_Legs,Loving,Caring,Supportive
+High_Performer,Focused,Healthy,Chillig,My_Smile,Caring,Patient,Smart,Supportive,My_Legs
+High_Performer,Focused,Healthy,Chilling,My_Smile,Caring,Patient,Smart,Supportive,My_Legs
+High_Performer,Focused,Healthy,Chilling,My_Smile,Caring,Patient,Smart,Supportive,My_Legs
+High_Performer,Focused,Healthy,Chilling,My_Smile,Caring,Patient,Smart,Supportive,My_Legs
+High_Performer,Focused,Healthy,Savage,My_Smile,Caring,Patient,Smart,Supportive,My_Legs
+High_Performer,Focused,Healthy,Savage,My_Smile,Caring,Patient,Resilient,Supportive,My_Legs
+High_Performer,Focused,Healthy,Savage,My_Smile,Caring,Patient,Resilient,Supportive,My_Legs
+High_Performer,Focused,Healthy,Savage,My_Smile,Caring,Patient,Resilient,Supportive,My_Legs
+High_Performer,Focused,Healthy,Savage,My_Smile,Caring,Patient,Resilient,Supportive,My_Legs
+High_Performer,Focused,Analytical,My_Legs,My body,My_Smile,My personality,Supportive,Intelligent,Loving
+High_Performer,Focused,Healthy,Chilling ,My_Smile,Caring,Patient,Supportive,Resilient,My_Legs
+High_Performer,Focused,Healthy,Savage,Loving,Supportive,Caring,Intelligent,Stamina,My_Legs
+High_Performer,Focused,Healthy,Savage,Loving,Supportive,Caring,Intelligent,Stamina,My_Legs
+High_Performer,Focused,Analytical,Loving ,Supportive,Caring,My body,My_Legs,Charismatic,Chilling
+High_Performer,Focused,Healthy,Analytical,Relator,Happy,Supportive,Patient,Intelligent,My_Legs
+High_Performer,Focused,Healthy,Analytical,Relator,Happy,Supportive,Patient,Intelligent,My_Legs
+High_Performer,Focused,Relator,Friend,Analytical,Happy,Supportive,Charismathic,Intelligent,My_Smile
+High_Performer,Focused,Relator,Friend,Analytical,Happy,Supportive,Charismathic,Intelligent,My_Smile
+High_Performer,Focused,Relator,Analytical,Charismatic,Happy,Supportive,My_Legs,My_Smile,Caring
+High_Performer,Focused,Relator,Analytical,CharismaticHappy,Supportive,My_Legs,My_Smile,Caring
+High_Performer,Focused,Relator,Analytical,Happy,Supportive,My_Legs,My_Smile,Caring,Individualization
+High_Performer,Focused,Relator,Analytical,Healthy,My_Smile,Caring,Happy,Intelligent,Analytical
+High_Performer,Focused,Relator,Analytical,Healthy,My_Smile,Caring,Happy,Intelligent,Analytical
+High_Performer,Focused,Relator,Analytical,Healthy,My_Smile,Happy,Loving,Intelligent,Analytical
+High_Performer,Focused,Relator,Analytical,Healthy,My_Smile,Happy,Happy,Intelligent,Analytical
+High_Performer,Focused,Relator,Analytical,Healthy,My_Smile,Caring,Happy,Intelligent,Analytical
+High_Performer,Focused,Relator,Analytical,Healthy,My_Smile,Happy,Happy,Intelligent,Analytical
+High_Performer,Focused,Relator,Happy,Healthy,My_Smile,Caring,Happy,Intelligent,Analytical
+High_Performer,Focused,Analytical,My_Smile,Intelligent,Happy,Caring,My_Legs,Healthy,Happy
+High_Performer,Focused,Analytical,My_Smile,Intelligent,Happy,Caring,My_Legs,Healthy,Happy
+High_Performer,Focused,Analytical,My_Smile,Intelligent,Happy,Caring,My_Legs,Healthy,Happy
+High_Performer,Focused,Analytical,My_Smile,Intelligent,Happy,Caring,My_Legs,Healthy,Happy
+High_Performer,Focused,Analytical,My_Smile,Intelligent,Happy,Caring,My_Legs,Healthy,Happy
+High_Performer,Focused,Analytical,My_Smile,Intelligent,Happy,Caring,My_Legs,Healthy,Happy
+High_Performer,Healthy,Relator,Resilient,Happy,Sympathetic,My personality,Gentleman,Intelligent,My_Smile
+High Perfomer,My_Legs,Healthy,My_Smile,Caring,Happy,Helpful,Honest,Patient,Individualization
+High_Performer,Analytical,Focused,Relator,Caring,Happy,My_Legs,Patient,Intelligent,Individualization
 High Perfomer,Focused,Analytical,Relator,Caring,Loving,Listener,Patient,Resilient,Intelligent
-High Performer,Healthy,Focused,Analytical,Intelligent,Loving,Caring,Resilient,Patient,My legs
-High Performer,Healthy,Focused,Analytical,Intelligent,Loving,Caring,Resilient,Patient,My legs
-High Performer,Healthy,Focused,Analytical,Intelligent,Loving,Caring,Resilient,Patient,My legs
-High Performer,Healthy,Focused,Analytical,Intelligent,Loving,Caring,Resilient,Patient,My legs
-High Performer,Healthy,Focused,Analytical,Intelligent,Loving,Caring,Resilient,Patient,My legs
-High Performer,Healthy,Focused,Savage,Intelligent,Loving,Caring,Patient,Resilient,My smile
-High Performer,Healthy,Focused,Savage,Stamina,Disciplined,Chilling,My legs,Resilient,Individualism
-High Performer,Healthy,Focused,Relator,Smart,Tenacious,Thoughtful,Patient,Resilient,My smile
-High Performer,Healthy,Disciplined,My smile,Focused,Tenacious,Thoughtful,Patient,Resilient,Loving
-My smile,Healthy,Focused,Relator,Thoughtful,Patient,Caring,Loving,Resilient,My legs
-My smile,Healthy,Focused,Relator,Thoughtful,Patient,Caring,Loving,Resilient,My legs
-My smile,Healthy,Focused,Relator,Thoughtful,Patient,Caring,Loving,Resilient,My legs
-My smile,Healthy,Focused,Relator,Thoughtful,Patient,Caring,Loving,Resilient,My legs
-My smile,Intelligent,Focused,Relator,Individualism,Caring,Loving,Resilient,My legs,Strength
-My smile,Intelligent,Focused,Relator,Individualism,Caring,Loving,Resilient,My legs,Strength
-My smile,Loving,Caring,Focused,Relator,Individualism,My legs,My strength,Thoughtful,Intelligent
-My smile,Loving,Caring,Respectful,Relator,Individualism,Listener,Resilient,My legs,Intelligent
-My smile,Loving,Caring,Respectful,Relator,Individualism,Listener,Resilient,My legs,Intelligent
-My smile,Intelligent,Focused,Respectful,Caring,Listener,Empathetic,Resilient,Individualism,My legs
-My smile,Intelligent,Persistance,Focused,Analytical,Listener,Mindfulness,Resilient,My legs,My stamina
-My smile,Intelligent,Focused,Respectful,Loving,Caring,Listener,My legs,Empathetic,Charismatic
-Loving,Patient,Focused,Analytical,Caring,Listener,Relator,Charismatic,Persistance,Mindfulness
-Loving,Caring,Patient,My smile,Focused,Respectful,Empathetic,Resilient,Individualism,My legs
-Loving,Caring,Focused,Listener,Respectful,Enthusiast,My smile,Mindfulness,Analytical,High Performer
-Loving,Caring,High Performer,Disciplined,Respectful,My smile,Intelligent,Resilient,My legs,Relator
-Loving,Listener,Caring,Respectful,Friendly,My legs,My smile,Resilient,Patient,High Performer
-Resilient,Patient,Optimistic,Respectful,Loving,Caring,High Performer,My legs,My smile,My energy
-Resilient,Patient,Optimistic,Respectful,Loving,Caring,High Performer,My legs,My smile,My energy
-Resilient,Patient,Optimistic,Relator,Individualism,Caring,High Performer,My legs,My energy,Friendly
-Resilient,Caring,Loving,Individualism,Relator,Charismatic,My legs,High Performer,Friendly,My smile
-Loving,Caring,Listener,Relator,Individualism,High Performer,My legs,My arms,My stamina,My strength
-Loving,Caring,Charismatic,High Performer,Optimistic,Positive,My legs,Listener,My energy,My smile
-Loving,Caring,Listener,High Performer,Friendly ,Positive,Resilient,My energy,My smile,My legs
-High Performer,Caring,Loving,Listener,Friendly,Resilient,My smile,My legs,Charismatic,Individualism
-High Performer,Caring,Loving,Listener,Friendly,Resilient,Analytical,Relator,My smile,My legs
-High Performer,Listener,Caring,Loving,Friendly ,Resilient,Analytical,My smile,Chilling,Positive
-High Performer,Analytical,Disciplined,Caring,Loving ,Patient,Listener,Positive,My smile,My strength
-High Performer,Analytical,Disciplined,Caring,Loving,Patient,Listener,My smile,My legs,Resilient
-High Performer,Analytical,Relator,Friendly,Caring,Loving,Happy,My smile,Patient,Resilient
-High Performer,Analytical,Relator,Caring,Loving,Patient,Resilient,Listener,Disciplined,Healthy
-High Performer,Focused,Healthy,Caring,Loving,Executioner,Resilient,Patient,Listener,Mindfulness
+High_Performer,Healthy,Focused,Analytical,Intelligent,Happy,Caring,Resilient,Patient,My_Legs
+High_Performer,Healthy,Focused,Analytical,Intelligent,Happy,Caring,Resilient,Patient,My_Legs
+High_Performer,Healthy,Focused,Analytical,Intelligent,Happy,Caring,Resilient,Patient,My_Legs
+High_Performer,Healthy,Focused,Analytical,Intelligent,Happy,Caring,Resilient,Patient,My_Legs
+High_Performer,Healthy,Focused,Analytical,Intelligent,Happy,Caring,Resilient,Patient,My_Legs
+High_Performer,Healthy,Focused,Savage,Intelligent,Happy,Caring,Patient,Resilient,My_Smile
+High_Performer,Healthy,Focused,Savage,Stamina,Disciplined,Chilling,My_Legs,Resilient,Happy
+High_Performer,Healthy,Focused,Relator,Smart,Tenacious,Thoughtful,Patient,Resilient,My_Smile
+High_Performer,Healthy,Disciplined,My_Smile,Focused,Tenacious,Thoughtful,Patient,Resilient,Loving
+My_Smile,Healthy,Focused,Relator,Thoughtful,Patient,Happy,Loving,Resilient,My_Legs
+My_Smile,Healthy,Focused,Relator,Thoughtful,Patient,Happy,Loving,Resilient,My_Legs
+My_Smile,Healthy,Focused,Relator,Thoughtful,Patient,Happy,Loving,Resilient,My_Legs
+My_Smile,Healthy,Focused,Relator,Thoughtful,Patient,Happy,Loving,Resilient,My_Legs
+My_Smile,Intelligent,Focused,Relator,Charismatic,Happy,Loving,Resilient,My_Legs,Strength
+My_Smile,Intelligent,Focused,Relator,Charismatic,Happy,Loving,Resilient,My_Legs,Strength
+My_Smile,Loving,Happy,Focused,Relator,Charismatic,My_Legs,My_Strength,Thoughtful,Intelligent
+My_Smile,Loving,Happy,Respectful,Relator,Charismatic,Listener,Resilient,My_Legs,Intelligent
+My_Smile,Loving,Happy,Respectful,Relator,Charismatic,Listener,Resilient,My_Legs,Intelligent
+My_Smile,Intelligent,Focused,Respectful,Happy,Listener,Empathetic,Resilient,Individualization,My_Legs
+My_Smile,Intelligent,Persistance,Focused,Analytical,Listener,Mindfulness,Resilient,My_Legs,My stamina
+My_Smile,Intelligent,Focused,Respectful,Loving,Happy,Listener,My_Legs,Empathetic,Charismatic
+Loving,Patient,Focused,Analytical,Happy,Listener,Relator,Charismatic,Persistance,Mindfulness
+Loving,Happy,Patient,My_Smile,Focused,Respectful,Empathetic,Resilient,Charismatic,My_Legs
+Loving,Happy,Focused,Listener,Respectful,Enthusiast,My_Smile,Mindfulness,Analytical,High_Performer
+Loving,Happy,High_Performer,Disciplined,Respectful,My_Smile,Intelligent,Resilient,My_Legs,Relator
+Loving,Listener,Happy,Respectful,Friendly,My_Legs,My_Smile,Resilient,Patient,High_Performer
+Resilient,Patient,Optimistic,Respectful,Loving,Happy,High_Performer,My_Legs,My_Smile,My energy
+Resilient,Patient,Optimistic,Respectful,Loving,Happy,High_Performer,My_Legs,My_Smile,My energy
+Resilient,Patient,Optimistic,Relator,Individualization,Caring,High_Performer,My_Legs,My energy,Friendly
+Resilient,Caring,Loving,Individualization,Relator,Charismatic,My_Legs,High_Performer,Friendly,My_Smile
+Loving,Caring,Listener,Relator,Individualization,High_Performer,My_Legs,My arms,My stamina,My_Strength
+Loving,Caring,Charismatic,High_Performer,Optimistic,Positive,My_Legs,Listener,My energy,My_Smile
+Loving,Caring,Listener,High_Performer,Friendly ,Positive,Resilient,My energy,My_Smile,My_Legs
+High_Performer,Caring,Loving,Listener,Friendly,Resilient,My_Smile,My_Legs,Charismatic,Individualization
+High_Performer,Caring,Loving,Listener,Friendly,Resilient,Analytical,Relator,My_Smile,My_Legs
+High_Performer,Listener,Caring,Loving,Friendly ,Resilient,Analytical,My_Smile,Chilling,Positive
+High_Performer,Analytical,Disciplined,Caring,Loving ,Patient,Listener,Positive,My_Smile,My_Strength
+High_Performer,Analytical,Disciplined,Caring,Loving,Patient,Listener,My_Smile,My_Legs,Resilient
+High_Performer,Analytical,Relator,Friendly,Caring,Loving,Happy,My_Smile,Patient,Resilient
+High_Performer,Analytical,Relator,Caring,Loving,Patient,Resilient,Listener,Disciplined,Healthy
+High_Performer,Focused,Healthy,Caring,Loving,Executioner,Resilient,Patient,Listener,Mindfulness
 Focused,Analytical,Healthy,Caring,Loving,Patient,Resilient,Listener,Passionate,Mindfullness
 Focused,Analytical,Healthy,Caring,Loving,Patient,Resilient,Listener,Charismatic,Relator
-Focused,High Performer,Healthy,Caring,Loving,Relator,Analytical,Resilient,Disciplined,Mindfulness
-High Performer,Chilling,Flexible,Caring,Loving,Patient,Analytical,Resilient,Charismatic,Listener
-High Performer,Chilling,Flexible,Caring,Loving,Resilient,Disciplined,Analytical,Curious,Learner
-High Performer,Flexible,Constant,Focused,Analytical,Relator,Loving,Listener,Learner,Resilient
-High Performer,Flexible,Constant,Disciplined,Analytical,Loving,Caring,Focused,Learner,Resilient
-High Performer,Flexible,Constant,Disciplined,Analytical,Loving,Caring,Focused,Resilient,Learner
-High Performer,Flexible,Focused,Healthy,Analytical,Strength,Stamina,Listener,Resilient,Learner
-High Performer,Flexible,Focused,Healthy,Analytical,Strength,Stamina,Listener,Resilient,Learner
-High Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualism,Learner,Motivated,Resilient
-High Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualism,Learner,Motivated,Resilient
-High Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualism,Learner,Motivated,Resilient
-High Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualism,Learner,Motivated,Resilient
-High Performer,Flexible,Focused,Healthy,Relator,Individualism,Learner,Motivated,Strong,Happy
-High Performer,Flexible,Focused,Relator,Happy,Caring,Listener,Resilient,Motivated,Loving
-High Performer,Flexible,Focused,Relator,Happy,Caring,Listener,Resilient,Motivated,Loving
-Charismatic,Listener ,Focused ,Relator ,Resilient ,Chilling ,Caring ,Loving ,Individualism ,Happy 
+Focused,High_Performer,Healthy,Caring,Loving,Relator,Analytical,Resilient,Disciplined,Mindfulness
+High_Performer,Chilling,Flexible,Caring,Loving,Patient,Analytical,Resilient,Charismatic,Listener
+High_Performer,Chilling,Flexible,Caring,Loving,Resilient,Disciplined,Analytical,Curious,Learner
+High_Performer,Flexible,Constant,Focused,Analytical,Relator,Loving,Listener,Learner,Resilient
+High_Performer,Flexible,Constant,Disciplined,Analytical,Loving,Caring,Focused,Learner,Resilient
+High_Performer,Flexible,Constant,Disciplined,Analytical,Loving,Caring,Focused,Resilient,Learner
+High_Performer,Flexible,Focused,Healthy,Analytical,Strength,Stamina,Listener,Resilient,Learner
+High_Performer,Flexible,Focused,Healthy,Analytical,Strength,Stamina,Listener,Resilient,Learner
+High_Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualization,Learner,Motivated,Resilient
+High_Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualization,Learner,Motivated,Resilient
+High_Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualization,Learner,Motivated,Resilient
+High_Performer,Flexible,Focused,Healthy,Analytical,Relator,Individualization,Learner,Motivated,Resilient
+High_Performer,Flexible,Focused,Healthy,Relator,Individualization,Learner,Motivated,Strong,Happy
+High_Performer,Flexible,Focused,Relator,Happy,Caring,Listener,Resilient,Motivated,Loving
+High_Performer,Flexible,Focused,Relator,Happy,Caring,Listener,Resilient,Motivated,Loving
+Charismatic,Listener ,Focused ,Relator ,Resilient ,Chilling ,Caring ,Loving ,Individualization ,Happy 
 Charismatic ,Focused,Energetic ,Strength ,Stamina ,Caring ,Loving ,Motivated ,Resilient,Relator 
-Charismatic,Focused,Analytical,Energetic,Stamina,My smile,Loving,Caring,Listener,Relator
-Disciplined,Focused,Healthy,Analytical,Stamina,My smile,Loving,Caring,Listener,Relator
-High Performer,Focused,Healthy,Analytical,Stamina,Individualism,Loving,Caring,Listener,Relator
-Relator,Loving,Caring,Patient,Resilient,Individualism,Charismatic,My smile,My legs,Analytical
-Relator,Loving,Caring,Patient,Resilient,Individualism,Charismatic,My smile,My legs,Analytical
-Relator,Loving,Caring,Patient,Resilient,Individualism,Charismatic,My smile,My legs,Analytical
-Relator,Loving,Caring,Patient,Resilient,Individualism,Charismatic,My smile,My legs,Analytical
-Relator,Loving,Caring,Patient,Resilient,Individualism,Charismatic,My smile,My legs,Analytical
-Relator,Loving,Caring,Patient,Resilient,Individualism,My smile,My legs,Analytical,Responsible
-Individualism,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My smile,Loving,Relator
-Individualism,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My smile,Loving,Relator
-Individualism,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My smile,Loving,Relator
-Individualism,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My smile,Loving,Relator
-Individualism,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My smile,Loving,Relator
-Individualism,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My smile,Loving,Relator
-Individualism,Flexible,High Performer,Disciplined,Empathetic,Listener,Caring,Loving,My smile,Relator
-Individualism,Flexible,High Performer,Disciplined,Empathetic,Listener,Caring,Loving,My smile,Relator
-Relator,Individualism,High Performer,Disciplined,Listener,Caring,Loving,My smile,Resilient,Strong
-Relator,Individualism,High Performer,Disciplined,Listener,Caring,Loving,My smile,Resilient,Strong
-Relator,Individualism,High Performer,Disciplined,Listener,Caring,Loving,My smile,Resilient,Strong
-High Performer,Disciplined,My smile,Listener,Caring,Resilient,Loving,Strong,My stamina,My legs
-High Performer,Disciplined,My smile,Listener,Caring,Resilient,Loving,Strong,My stamina,My legs
-Loving,Caring ,Resilient,My smile,My legs,My strength,My stamina,Listener,Relator,Individualism
-Loving,Caring ,Resilient,My smile,My legs,My strength,My stamina,Listener,Relator,Individualism
-Loving,Caring ,Resilient,My smile,My legs,My strength,My stamina,Listener,Relator,Individualism
-Loving,Caring ,Resilient,My smile,My legs,My strength,My stamina,Listener,Relator,Individualism
-Loving,Caring ,Resilient,My smile,My legs,My strength,My stamina,Listener,Relator,Individualism
-Loving,Caring ,Resilient,My smile,My legs,My strength,My stamina,Listener,Relator,Individualism
-Loving,Caring ,Resilient,My smile,My legs,My strength,My stamina,Listener,Relator,Individualism
-Loving,Caring,Listener,Resilient,My legs,My strength,My stamina,Relator,Individualism,My smile
-Loving,Caring,Listener,Resilient,My legs,My strength,My stamina,Relator,Individualism,My smile
-Loving,Caring,Listener,Resilient,My legs,My strength,My stamina,Relator,Individualism,My smile
-Loving,Caring,Listener,Resilient,My legs,My strength,My stamina,Relator,Individualism,My smile
-Loving,Caring,Listener,Resilient,My legs,My strength,My stamina,Relator,Individualism,My smile
-Loving,Caring,Listener,Resilient,My legs,My strength,My stamina,Relator,Individualism,My smile
-Loving,Caring,Listener,Resilient,My legs,My strength,My stamina,Relator,Individualism,My smile
-Disciplined,Grit,Listener,Resilient,Persistent,My legs,My strength,Relator,My smile,Encouraging
-Disciplined,Grit,Listener,Resilient,Persistent,My legs,My strength,Relator,My smile,Encouraging
-Disciplined,Listener,Resilient,Persistent,My legs,My strength,Ralator,Courageous,My strength,Strong
-Disciplined,Listener,Resilient,Persistent,My legs,My strength,Ralator,Courageous,My strength,Strong
-Listener,Loving,Resilient,Caring,My legs,My smile,Relator,Persistent,Analytical,Focused
-Listener,Loving,Resilient,Caring,My legs,My smile,Relator,Persistent,Analytical,Focused
-Resilient,High Performer,Focused,Persistent,My legs,My smile,Stamina,Analytical,Individualism,Strong
-Resilient,High Performer,Disciplined,Focused,Persistent,My legs,My smile,Stamina,Analytical,Intelligent
-Resilient,High Performer,Disciplined,Focused,Persistent,My legs,My smile,Stamina,Analytical,Intelligent
-Resilient,High Performer,Focused,Healthy,My legs,Strong,Intelligent,Analytical,My smile,Persistent
-Resilient,High Performer,Focused,Healthy,My legs,Strong,Intelligent,Analytical,My smile,Persistent
-Resilient,High Performer,Focused,Healthy,My legs,Strong,Intelligent,Analytical,My smile,Persistent
-Resilient,High Performer,Focused,Healthy,My legs,Strong,Intelligent,Analytical,My smile,Persistent
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-High Performer,Healthy,Focused,Resilient,Caring,Loving,Happy,Individualism,Listener,Empathetic
-High Performer,Healthy,Focused,Resilient,Caring,Loving,Happy,Individualism,Listener,Empathetic
-High Performer,Healthy,Focused,Resilient,Caring,Loving,Happy,Individualism,Listener,Empathetic
-High Performer,Healthy,Focused,Resilient,Caring,Loving,Happy,Individualism,Listener,Empathetic
-Respectful,Loving,Caring,Resilient,Patient,Healthy,My legs,Relator,Individualism,Listener
-Loving,Caring,Resilient,My legs,My smile,Intelligent,Analytical,Focused,Listener,Respectful
-Loving,Caring,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My smile
-Loving,Caring,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My smile
-Loving,Caring,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My smile
-Loving,Caring,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My smile
-Loving,Caring,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My smile
-Respectful,Loving,Caring,Resilient,Healthy,My legs,Relator,Individualism,Smart,Listener
-Respectful,Loving ,Caring,Resilient,Healthy,My legs,Relator,Individualism,Smart,Listener
-Loving,Caring,Patient,Healthy,My legs,Relator,My smile,Intelligent,Empathetic,Listener
-Loving,Caring,Patient,Healthy,My legs,My smile,Intelligent,Empathetic,Listener,Focused
-Loving,Caring,Patient,Healthy,My legs,My smile,Intelligent,Relator,Listener,Focused
-Loving,Caring,Patient,Healthy,My legs,My smile,Intelligent,Relator,Listener,Focused
-Loving,Caring,Resilient,Focused,Analytical,Intelligent,Relator,Perseverant,High Performer,Respectful
+Charismatic,Focused,Analytical,Energetic,Stamina,My_Smile,Loving,Caring,Listener,Relator
+Disciplined,Focused,Healthy,Analytical,Stamina,My_Smile,Loving,Caring,Listener,Relator
+High_Performer,Focused,Healthy,Analytical,Stamina,Individualization,Loving,Caring,Listener,Relator
+Relator,Loving,Caring,Patient,Resilient,Analytical,Charismatic,My_Smile,My_Legs,Analytical
+Relator,Loving,Caring,Patient,Resilient,Happy,Charismatic,My_Smile,My_Legs,Analytical
+Relator,Loving,Caring,Patient,Resilient,Happy,Charismatic,My_Smile,My_Legs,Analytical
+Relator,Loving,Caring,Patient,Resilient,Happy,Charismatic,My_Smile,My_Legs,Analytical
+Relator,Loving,Caring,Patient,Resilient,Happy,Charismatic,My_Smile,My_Legs,Analytical
+Relator,Loving,Caring,Patient,Resilient,Happy,My_Smile,My_Legs,Analytical,Responsible
+Individualization,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My_Smile,Loving,Relator
+Individualization,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My_Smile,Loving,Relator
+Individualization,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My_Smile,Loving,Relator
+Individualization,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My_Smile,Loving,Relator
+Individualization,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My_Smile,Loving,Relator
+Individualization,Flexible,Caring,Listener,Empathetic,Resilient,Charismatic,My_Smile,Loving,Relator
+Individualization,Flexible,High_Performer,Disciplined,Empathetic,Listener,Caring,Loving,My_Smile,Relator
+Individualization,Flexible,High_Performer,Disciplined,Empathetic,Listener,Caring,Loving,My_Smile,Relator
+Relator,Individualization,High_Performer,Disciplined,Listener,Caring,Loving,My_Smile,Resilient,Strong
+Relator,Individualization,High_Performer,Disciplined,Listener,Caring,Loving,My_Smile,Resilient,Strong
+Relator,Individualization,High_Performer,Disciplined,Listener,Caring,Loving,My_Smile,Resilient,Strong
+High_Performer,Disciplined,My_Smile,Listener,Caring,Resilient,Loving,Strong,My stamina,My_Legs
+High_Performer,Disciplined,My_Smile,Listener,Caring,Resilient,Loving,Strong,My stamina,My_Legs
+Joyful,Caring ,Resilient,My_Smile,My_Legs,My_Strength,My stamina,Listener,Relator,Individualization
+Joyful,Caring ,Resilient,My_Smile,My_Legs,My_Strength,My stamina,Listener,Relator,Individualization
+Joyful,Caring ,Resilient,My_Smile,My_Legs,My_Strength,My stamina,Listener,Relator,Individualization
+Joyful,Caring ,Resilient,My_Smile,My_Legs,My_Strength,My stamina,Listener,Relator,Individualization
+Joyful,Caring ,Resilient,My_Smile,My_Legs,My_Strength,My stamina,Listener,Relator,Individualization
+Joyful,Caring ,Resilient,My_Smile,My_Legs,My_Strength,My stamina,Listener,Relator,Individualization
+Joyful,Caring ,Resilient,My_Smile,My_Legs,My_Strength,My stamina,Listener,Relator,Individualization
+Joyful,Caring,Listener,Resilient,My_Legs,My_Strength,My stamina,Relator,Individualization,My_Smile
+Joyful,Caring,Listener,Resilient,My_Legs,My_Strength,My stamina,Relator,Individualization,My_Smile
+Joyful,Caring,Listener,Resilient,My_Legs,My_Strength,My stamina,Relator,Individualization,My_Smile
+Joyful,Caring,Listener,Resilient,My_Legs,My_Strength,My stamina,Relator,Individualization,My_Smile
+Joyful,Caring,Listener,Resilient,My_Legs,My_Strength,My stamina,Relator,Individualization,My_Smile
+Joyful,Caring,Listener,Resilient,My_Legs,My_Strength,My stamina,Relator,Individualization,My_Smile
+Joyful,Caring,Listener,Resilient,My_Legs,My_Strength,My stamina,Relator,Individualization,My_Smile
+Disciplined,Grit,Listener,Resilient,Persistent,My_Legs,My_Strength,Relator,My_Smile,Encouraging
+Disciplined,Grit,Listener,Resilient,Persistent,My_Legs,My_Strength,Relator,My_Smile,Encouraging
+Disciplined,Listener,Resilient,Persistent,My_Legs,My_Strength,Ralator,Courageous,My_Strength,Strong
+Disciplined,Listener,Resilient,Persistent,My_Legs,My_Strength,Ralator,Courageous,My_Strength,Strong
+Listener,Loving,Resilient,Caring,My_Legs,My_Smile,Relator,Persistent,Analytical,Focused
+Listener,Loving,Resilient,Caring,My_Legs,My_Smile,Relator,Persistent,Analytical,Focused
+Resilient,High_Performer,Focused,Persistent,My_Legs,My_Smile,Stamina,Analytical,Individualization,Strong
+Resilient,High_Performer,Disciplined,Focused,Persistent,My_Legs,My_Smile,Stamina,Analytical,Intelligent
+Resilient,High_Performer,Disciplined,Focused,Persistent,My_Legs,My_Smile,Stamina,Analytical,Intelligent
+Resilient,High_Performer,Focused,Healthy,My_Legs,Strong,Intelligent,Analytical,My_Smile,Persistent
+Resilient,High_Performer,Focused,Healthy,My_Legs,Strong,Intelligent,Analytical,My_Smile,Persistent
+Resilient,High_Performer,Focused,Healthy,My_Legs,Strong,Intelligent,Analytical,My_Smile,Persistent
+Resilient,High_Performer,Focused,Healthy,My_Legs,Strong,Intelligent,Analytical,My_Smile,Persistent
+High_Performer,Healthy,Focused,Resilient,Charismatic,Loving,Happy,Individualization,Listener,Empathetic
+High_Performer,Healthy,Focused,Resilient,Charismatic,Loving,Happy,Individualization,Listener,Empathetic
+High_Performer,Healthy,Focused,Resilient,Charismatic,Loving,Happy,Individualization,Listener,Empathetic
+High_Performer,Healthy,Focused,Resilient,Charismatic,Loving,Happy,Individualization,Listener,Empathetic
+Respectful,Loving,Charismatic,Resilient,Patient,Healthy,My_Legs,Relator,Individualization,Listener
+Joyful,Charismatic,Resilient,My_Legs,My_Smile,Intelligent,Analytical,Focused,Listener,Respectful
+Joyful,Charismatic,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My_Smile
+Joyful,Charismatic,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My_Smile
+Joyful,Charismatic,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My_Smile
+Joyful,Charismatic,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My_Smile
+Joyful,Charismatic,Resilient,Focused,Analytical,Intelligent,Perseverant,Disciplined,Listener,My_Smile
+Respectful,Loving,Caring,Resilient,Healthy,My_Legs,Relator,Individualization,Smart,Listener
+Respectful,Loving ,Caring,Resilient,Healthy,My_Legs,Relator,Individualization,Smart,Listener
+Joyful,Charismatic,Patient,Healthy,My_Legs,Relator,My_Smile,Intelligent,Empathetic,Listener
+Joyful,Charismatic,Patient,Healthy,My_Legs,My_Smile,Intelligent,Empathetic,Listener,Focused
+Joyful,Charismatic,Patient,Healthy,My_Legs,My_Smile,Intelligent,Relator,Listener,Focused
+Joyful,Charismatic,Patient,Healthy,My_Legs,My_Smile,Intelligent,Relator,Listener,Focused
+Joyful,Charismatic,Resilient,Focused,Analytical,Intelligent,Relator,Perseverant,High_Performer,Respectful

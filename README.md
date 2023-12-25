@@ -5,9 +5,9 @@ Generate your own Wordcloud with image mask.
 
 ## 🎮 Usage
 
-  1. Run code
+  1. Run code with two arguments (text file and image mask) 
       ```bash
-      python wordcloud_generator.py
+      python wordcloud_generator.py files/self_appreciation_2023.txt images/masks/cloud.png
       ```
 
 ## Extras

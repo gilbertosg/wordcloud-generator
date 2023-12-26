@@ -6,27 +6,9 @@ from os import path
 from PIL import Image
 from wordcloud import WordCloud, STOPWORDS
 
-def validate_args(FILE, MASK):
-    """Validates if both `FILE` and `MASK` arguments exist.
-
-    Args:
-    FILE: The path to the text file.
-    MASK: The path to the mask image.
-
-    Returns:
-    True if both arguments exist, False otherwise.
-    """
-
-    if not os.path.exists(FILE):
-        FILE = "files/self_appreciation_2023.txt"
-        return False
-
-    if not os.path.exists(MASK):
-        MASK = "images/masks/cloud.png"
-        return False
-
-    return True
-
+# Default values
+FILE = "files/self_appreciation_2023.txt"
+MASK = "images/masks/cloud.png"
 
 def wordcloud_generator(FILE, MASK):
     # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
@@ -71,13 +53,20 @@ Args:
   MASK: The path to the mask image.
 '''
 
-# Read args
-FILE = sys.argv[1]
-MASK = sys.argv[2]
+# Check if FILE arguments exist.
+if len(sys.argv) > 1:
+  FILE = sys.argv[1]
 
-if validate_args(FILE, MASK):
-  # Both arguments exist.
-  wordcloud_generator(FILE, MASK)
-else:
+# Check if MASK arguments exist.
+if len(sys.argv) > 2:
+  MASK = sys.argv[2] 
+
+# Check if the files paths exist
+if len(sys.argv) < 2:  
   # One or both arguments do not exist.
   print("One or both arguments do not exist -> using default values.")
+  print("FILE: " + FILE)
+  print("MASK: " + MASK)
+
+# Generate Word Cloud
+wordcloud_generator(FILE, MASK)
